@@ -5,13 +5,13 @@ html {
 #bear {
   position: absolute;
   top: 100px;
-  right: 0;
+  right: 800px;
 }
 
 /* Write your solution here */
 @media only screen and(min-width: 1196px){
   #bear {
-    position: sticky;;
+
     left: 800px;
   }
 }
