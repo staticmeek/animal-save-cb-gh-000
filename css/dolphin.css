@@ -53,3 +53,10 @@ html {
   }
 
 }
+@media only screen and (max-width: 980px){
+  #dolphin{
+    top: 100px;
+    transform: rotate(-0.6turn);
+  }
+
+}
