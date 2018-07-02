@@ -69,7 +69,7 @@ html {
 
 }
 
-@media only screen and (max-width: 980px){
+@media only screen and (max-width: 810px){
   #dolphin{
     top: 100px;
     transform: rotate(-0.8turn);
